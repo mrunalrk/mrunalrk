@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrunalrk&label=Profile%20views&color=0e75b6&style=flat" alt="mrunalrk" /> </p>
 
 - 🌱 I have recently completed Post Graduation in Diploma in Advanced Computing
-- **Skills** ***- JavaScript, ReactJS, HTML, MS Excel CSS, NodeJS, MySQL, C#, Java, Git, Agile,Scrum***
+- **Programming Skills** ***- JavaScript, ReactJS, HTML, MS Excel CSS, NodeJS, MySQL, C#, Java, Git, Agile,Scrum***
 
 - 📫 How to reach me **mrunalkhapare10@gmail.com**
 

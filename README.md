@@ -1,4 +1,4 @@
-![logo](https://github.com/mrunalrk/mrunalrk/blob/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn%20Banner.png)
+![logo](mk_banner.png)
 
 <h1 align="center">Hi 👋, I'm Mrunal Khapare</h1>
 <h3 align="center">A passionate Software developer from India</h3>

@@ -1,4 +1,5 @@
-(https://github.com/mrunalrk/mrunalrk/blob/main/mk_banner%20(2).jpg)
+<img src="https://github.com/mrunalrk/mrunalrk/blob/main/mk_banner%20(2).jpg">
+<!-- (https://github.com/mrunalrk/mrunalrk/blob/main/mk_banner%20(2).jpg) -->
 
 <h1 align="center">Hi 👋, I'm Mrunal Khapare</h1>
 <h3 align="center">A passionate Software developer from India</h3>
